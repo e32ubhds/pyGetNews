@@ -29,7 +29,7 @@ headers = {
     'https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_aladin_banner',
     'Connection': 'keep-alive',
     'Cookie':
-    'BAIDUID=956D2A4051379042EDC593FF80CCB17C:FG=1; BIDUPSID=956D2A405137904245C77CDEF218580D; PSTM=1591509245; BDUSS=lUc2x3SU9DV0Vxdzc2eXNpV2oyLXl0ZEhKQlo4RlBvaDdBOGQ4cU8wOEJLVlpmRVFBQUFBJCQAAAAAAAAAAAEAAAD5o9sDd29jb29sMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcLl8BnC5fYn; H_PS_PSSID=1450_31253_32351_32046_32115_32089_32618_26350_32481_22159; delPer=0; PSINO=2; lscaptain=srcactivitycaptainindexcss_91e010cf-srccommonlibsesljs_e3d2f596-srcactivitycaptainindexjs_a2e9c712; Hm_lvt_68bd357b1731c0f15d8dbfef8c216d15=1597926948,1597927116; Hm_lpvt_68bd357b1731c0f15d8dbfef8c216d15=1597930527',
+    '',  #请填入自己的Cookie
     'Upgrade-Insecure-Requests': '1',
     'Cache-Control': 'max-age=0',
 }
